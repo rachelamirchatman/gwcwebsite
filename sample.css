@@ -1,0 +1,21 @@
+h2{
+  color : Indigo;
+}
+
+body{
+  background-color: SkyBlue;
+}
+
+.geese {
+  float: right;
+}
+
+.enlarge-onhover {
+     width: 130px;
+     height: 130px;
+}
+
+.enlarge-onhover:hover {
+     width: 200px;
+     height: 200px;
+}
